@@ -1,0 +1,51 @@
+EmployeeID,Attrition,OverTime,Salary,SalaryRange,HireDate,Gender,Department,JobRole,BusinessTravel,MaritalStatus,State,EducationLevel,PerformanceRating,JobSatisfaction,Age
+EMP-1001,No,Yes,65200,60k-70k,2019-03-15,Male,Engineering,Senior Engineer,Travel_Rarely,Married,California,Bachelor's,Excellent,Very High,34
+EMP-1002,Yes,Yes,42800,40k-50k,2020-07-22,Female,Sales,Sales Executive,Travel_Frequently,Single,Texas,Master's,Outstanding,High,28
+EMP-1003,No,No,88500,70k+,2018-01-10,Male,Engineering,Engineering Manager,Travel_Rarely,Married,California,Master's,Excellent,Very High,41
+EMP-1004,No,No,53400,50k-60k,2021-05-03,Female,Human Resources,HR Specialist,Non-Travel,Divorced,Nevada,Bachelor's,Good,Medium,32
+EMP-1005,Yes,Yes,38900,30k-40k,2022-11-18,Male,Manufacturing,Production Technician,Travel_Rarely,Single,Texas,Associate's,Good,Low,24
+EMP-1006,No,No,72100,70k+,2017-09-01,Female,Engineering,Senior Engineer,Travel_Rarely,Married,California,PhD,Outstanding,Very High,38
+EMP-1007,No,Yes,61800,60k-70k,2019-06-14,Male,Sales,Sales Manager,Travel_Frequently,Married,New York,Master's,Excellent,High,36
+EMP-1008,Yes,Yes,35200,30k-40k,2023-02-28,Female,Manufacturing,Production Operator,Non-Travel,Single,Texas,High School,Good,Low,22
+EMP-1009,No,No,95000,70k+,2016-04-20,Male,Engineering,Principal Engineer,Travel_Rarely,Married,California,PhD,Outstanding,Very High,45
+EMP-1010,No,No,48700,40k-50k,2020-08-11,Female,Human Resources,HR Coordinator,Non-Travel,Single,Nevada,Bachelor's,Excellent,Medium,27
+EMP-1011,Yes,Yes,41200,40k-50k,2021-12-05,Male,Sales,Sales Representative,Travel_Frequently,Divorced,Texas,Associate's,Good,Low,26
+EMP-1012,No,No,67800,60k-70k,2018-10-22,Female,Engineering,Software Engineer,Travel_Rarely,Married,California,Master's,Excellent,High,33
+EMP-1013,No,Yes,55900,50k-60k,2019-11-30,Male,Manufacturing,Quality Inspector,Travel_Rarely,Married,Nevada,Bachelor's,Outstanding,Very High,35
+EMP-1014,Yes,Yes,32500,30k-40k,2023-06-15,Female,Sales,Sales Representative,Travel_Frequently,Single,Texas,Associate's,Good,Low,23
+EMP-1015,No,No,78300,70k+,2017-02-14,Male,Engineering,Engineering Lead,Travel_Rarely,Married,California,Master's,Outstanding,Very High,40
+EMP-1016,No,No,45600,40k-50k,2020-04-08,Female,Human Resources,Recruiter,Non-Travel,Single,Nevada,Bachelor's,Excellent,High,29
+EMP-1017,No,Yes,58200,50k-60k,2019-08-19,Male,Engineering,Mechanical Engineer,Travel_Rarely,Divorced,California,Bachelor's,Excellent,Medium,31
+EMP-1018,Yes,Yes,37400,30k-40k,2022-09-12,Female,Manufacturing,Assembly Technician,Non-Travel,Single,Texas,High School,Good,Low,21
+EMP-1019,No,No,82500,70k+,2016-11-03,Male,Engineering,Staff Engineer,Travel_Rarely,Married,California,PhD,Outstanding,Very High,43
+EMP-1020,No,No,52100,50k-60k,2020-01-27,Female,Sales,Account Manager,Travel_Frequently,Married,New York,Master's,Excellent,High,34
+EMP-1021,Yes,Yes,39800,30k-40k,2022-03-14,Male,Manufacturing,Production Technician,Travel_Rarely,Single,Texas,Associate's,Good,Low,25
+EMP-1022,No,No,69500,60k-70k,2018-07-09,Female,Engineering,Design Engineer,Travel_Rarely,Married,California,Master's,Excellent,Very High,37
+EMP-1023,No,Yes,47300,40k-50k,2021-02-16,Male,Human Resources,Training Specialist,Non-Travel,Single,Nevada,Bachelor's,Good,Medium,30
+EMP-1024,No,No,91200,70k+,2016-06-25,Female,Engineering,Director of Engineering,Travel_Rarely,Married,California,PhD,Outstanding,Very High,47
+EMP-1025,Yes,Yes,34800,30k-40k,2023-04-07,Male,Sales,Inside Sales Rep,Travel_Frequently,Single,Texas,High School,Good,Low,22
+EMP-1026,No,No,63500,60k-70k,2019-09-18,Female,Engineering,Test Engineer,Travel_Rarely,Divorced,California,Bachelor's,Excellent,High,32
+EMP-1027,No,No,56700,50k-60k,2020-05-21,Male,Manufacturing,Manufacturing Engineer,Travel_Rarely,Married,Nevada,Bachelor's,Excellent,Medium,33
+EMP-1028,No,Yes,71800,70k+,2017-12-01,Female,Sales,Regional Sales Manager,Travel_Frequently,Married,New York,Master's,Outstanding,Very High,39
+EMP-1029,Yes,Yes,40100,40k-50k,2022-07-30,Male,Manufacturing,Production Operator,Non-Travel,Single,Texas,Associate's,Good,Low,24
+EMP-1030,No,No,85700,70k+,2016-03-11,Female,Engineering,Senior Software Engineer,Travel_Rarely,Married,California,Master's,Outstanding,Very High,42
+EMP-1031,No,No,49200,40k-50k,2020-10-05,Male,Human Resources,Benefits Analyst,Non-Travel,Married,Nevada,Bachelor's,Excellent,High,31
+EMP-1032,Yes,Yes,36900,30k-40k,2023-01-20,Female,Manufacturing,Assembly Operator,Non-Travel,Single,Texas,High School,Good,Low,20
+EMP-1033,No,Yes,64700,60k-70k,2019-04-12,Male,Engineering,Firmware Engineer,Travel_Rarely,Married,California,Bachelor's,Excellent,High,35
+EMP-1034,No,No,57400,50k-60k,2020-11-09,Female,Sales,Business Development Rep,Travel_Frequently,Single,New York,Master's,Excellent,Medium,28
+EMP-1035,No,No,76500,70k+,2017-08-15,Male,Engineering,Systems Architect,Travel_Rarely,Married,California,PhD,Outstanding,Very High,44
+EMP-1036,Yes,Yes,33700,30k-40k,2022-12-22,Female,Sales,Sales Associate,Travel_Frequently,Single,Texas,Associate's,Good,Low,23
+EMP-1037,No,No,68200,60k-70k,2018-05-30,Male,Engineering,Electrical Engineer,Travel_Rarely,Divorced,California,Master's,Excellent,Very High,36
+EMP-1038,No,Yes,44500,40k-50k,2021-06-17,Female,Human Resources,HRIS Analyst,Non-Travel,Single,Nevada,Bachelor's,Good,Medium,27
+EMP-1039,No,No,93800,70k+,2016-01-08,Male,Engineering,VP of Engineering,Travel_Rarely,Married,California,PhD,Outstanding,Very High,50
+EMP-1040,No,No,51800,50k-60k,2020-03-25,Female,Manufacturing,Process Engineer,Travel_Rarely,Married,Nevada,Bachelor's,Excellent,High,30
+EMP-1041,Yes,Yes,38200,30k-40k,2022-08-14,Male,Sales,Field Sales Rep,Travel_Frequently,Single,Texas,High School,Good,Low,25
+EMP-1042,No,No,66900,60k-70k,2018-12-03,Female,Engineering,QA Engineer,Travel_Rarely,Married,California,Bachelor's,Excellent,High,34
+EMP-1043,No,Yes,54600,50k-60k,2019-10-08,Male,Manufacturing,Maintenance Technician,Travel_Rarely,Divorced,Nevada,Associate's,Good,Medium,33
+EMP-1044,No,No,79100,70k+,2017-04-19,Female,Engineering,Data Engineer,Travel_Rarely,Married,California,Master's,Outstanding,Very High,38
+EMP-1045,Yes,Yes,41900,40k-50k,2021-09-27,Male,Sales,Sales Coordinator,Travel_Frequently,Single,New York,Bachelor's,Good,Low,26
+EMP-1046,No,No,87200,70k+,2016-08-12,Female,Engineering,Machine Learning Engineer,Travel_Rarely,Married,California,PhD,Outstanding,Very High,41
+EMP-1047,No,No,46800,40k-50k,2020-06-30,Male,Human Resources,Payroll Specialist,Non-Travel,Married,Nevada,Bachelor's,Excellent,Medium,29
+EMP-1048,Yes,Yes,35600,30k-40k,2023-05-11,Female,Manufacturing,Line Operator,Non-Travel,Single,Texas,High School,Good,Low,21
+EMP-1049,No,Yes,62300,60k-70k,2019-01-22,Male,Engineering,DevOps Engineer,Travel_Rarely,Married,California,Bachelor's,Excellent,High,32
+EMP-1050,No,No,73400,70k+,2017-10-06,Female,Engineering,Product Manager,Travel_Rarely,Married,California,Master's,Outstanding,Very High,39
